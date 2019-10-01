@@ -1,0 +1,3 @@
+﻿  LinkedStack.cpp
+c:\users\it\source\repos\linkedstack\linkedstack\linkedstack.cpp(7): warning C4101: 'i': unreferenced local variable
+  LinkedStack.vcxproj -> C:\Users\IT\source\repos\LinkedStack\Debug\LinkedStack.exe
