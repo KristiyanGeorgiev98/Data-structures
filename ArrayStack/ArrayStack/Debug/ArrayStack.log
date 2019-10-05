@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\it\source\repos\arraystack\arraystack\source.cpp(14): warning C4101: 'i': unreferenced local variable
+  StackQueue.cpp
+  Generating Code...
+  ArrayStack.vcxproj -> C:\Users\IT\source\repos\ArrayStack\Debug\ArrayStack.exe
